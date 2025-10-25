@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #2196f3;
+  --secondary-color: #212121;
+  --text-color: #757575;
+  --white: #ffffff;
+  --footer-bg: #2f303a;
+  --hero-bg: #2f303a;
+  --button: #188ce8;
+}
+body {
+  color: var(--text-color);
+}
+.btn {
+  background-color: var(--primary-color);
+}
+footer {
+  background-color: var(--footer-bg);
+}
